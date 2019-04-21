@@ -1,0 +1,39 @@
+{
+  "Actions": [
+    {
+
+      "Icon": "actionStreamIcon",
+      "Name": "Open Stream",
+      "States": [
+        {
+          "Image": "actionStreamImage",
+          "TitleAlignment": "middle", 
+          "FontSize": "16"
+        }
+      ], 
+      "Tooltip": "Want to start streaming? Click me!",
+      "UUID": "com.example.myplugin.action"
+    }
+  ], 
+  "SDKVersion": 2,
+  "Author": "GenuineCode",
+  "CodePath": "code.html", 
+  "Description": "Opens all of your streaming necessities with a push of a button",
+  "Name": "Open Stream",
+  "Icon": "OpenStreamIcon",
+  "Version": "1.0",
+  "OS": [
+    {
+        "Platform": "mac", 
+        "MinimumVersion" : "10.11"
+    },
+    {
+        "Platform": "windows", 
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software": 
+    {
+        "MinimumVersion" : "4.1"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "Opens all of your streaming necessities with a push of a button",
+  "Name": "Open Stream",
+  "com.example.myplugin.action": {
+    "Name": "Open Stream",
+    "Tooltip": "Want to start streaming? Click me!"
+  }
+}
